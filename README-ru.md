@@ -4,7 +4,7 @@ Darwin Cydia Repository Manager
 Это панель управления репозиторием с открытм исходным кодом для Saurik's Cydia™.  
 Эта программа - ремэйк "[DCRM](https://github.com/tibounise/DCRM)", и мы добавили около 95% функций в эту замечательную панель.
 
-Russian Translator: [shlyahten](https://github.com/shlyahten/WEIPDCRM-Rus)
+Russian Translator: [shlyahten](https://github.com/husseinalmeer/hussein-almeer)
 
 ##Посмотреть онлайн:
 1.  http://cydia.shlyahten.ru - w/ Russian
