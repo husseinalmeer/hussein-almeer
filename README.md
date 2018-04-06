@@ -2,7 +2,7 @@
 Darwin Cydia Repository Manager
 
 This is an open source Repository Manager for Saurik's Cydia™ Clients.  
-This program is re-designed from tibounise's "[DCRM](https://github.com/tibounise/DCRM)", and we add almost 95% functions for a wonderful repository.
+This program is re-designed from tibounise's "[DCRM](https://github.com/husseinalmeer/hussein-almeer)", and we add almost 95% functions for a wonderful repository.
 
 ##Preview:
 1.  ~~http://apt.82flex.com~~ (closed)
